@@ -1,2 +1,2 @@
-# GTCode
+# komodo-code 
 Simple code Editor
